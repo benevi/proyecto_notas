@@ -127,7 +127,6 @@ proyecto_notas/
 
 ### Interfaz de Usuario
 - Diseño responsive
-- Animaciones CSS
 - Mensajes de error y éxito
 - Navegación intuitiva
 
