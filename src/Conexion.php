@@ -19,12 +19,12 @@ class Conexion
 
     public function __construct()
     {
-        $this->host = "localhost";
-        $this->db = "sistema_notas";
-        $this->user = "root";
-        $this->pass = "";
-        $this->dsn = "mysql:host={$this->host};dbname={$this->db};charset=utf8mb4";
-        $this->crearConexion();
+       $this->host = "localhost";
+       $this->db = "tu_base_de_datos";
+       $this->user = "tu_usuario";
+       $this->pass = "tu_contraseña";
+       $this->dsn = "mysql:host={$this->host};dbname={$this->db};charset=utf8mb4";
+       $this->crearConexion();
     }
 
     public function crearConexion()
