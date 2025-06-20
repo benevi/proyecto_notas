@@ -1,0 +1,43 @@
+# Dependencias de Composer
+vendor/
+composer.lock
+
+# Archivos de configuración con datos sensibles
+.env
+.env.local
+.env.production
+
+# Cache de Blade templates
+cache/
+
+# Logs
+*.log
+logs/
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Uploads de usuarios (si tienes una carpeta de uploads)
+uploads/
+images/uploads/
+
+# Backups de base de datos
+*.sql.backup
+*.sql.bak

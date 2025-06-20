@@ -1,0 +1,18 @@
+{
+    "name": "victo/proyecto_notas",
+    "type": "project",
+    "require": {
+        "philo/laravel-blade": "^3.1",
+        "google/apiclient": "^2.18"
+    },
+    "autoload": {
+        "psr-4": {
+            "ProyectoNotas\\": "src/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
