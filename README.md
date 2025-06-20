@@ -152,7 +152,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## Autor
 
-**Tu Nombre** - [victor_franco@hotmail.es](mailto:victor_franco@hotmail.es)
+**Victor Franco** - [victor_franco@hotmail.es](mailto:victor_franco@hotmail.es)
 
 ## Problemas Conocidos
 
